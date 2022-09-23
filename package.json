@@ -1,5 +1,5 @@
 {
-  "name": "arithmetic-operations",
+  "name": "arithmetic-operations-mb",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/Shay-am/arithmetic-operations.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "mateusz.dev",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Shay-am/arithmetic-operations/issues"
